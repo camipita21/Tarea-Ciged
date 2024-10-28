@@ -7,9 +7,9 @@ export const Nav = () => {
         <li>
           <button className="text-white hover:text-blue-400 animate-in fade-in zoom-in transition duration-300">
             Inicio
-            {/* <span className="animate-ping inline-flex rounded-full bg-sky-400 opacity-75">
+            <span className="animate-ping inline-flex rounded-full bg-sky-400 opacity-75">
               *
-            </span> */}
+            </span>
           </button>
         </li>
         <li>
