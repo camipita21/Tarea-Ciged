@@ -19,7 +19,7 @@ export const Nav = () => {
         </li>
         <li>
           <button className="text-white hover:text-blue-400 animate-in fade-in zoom-in transition duration-300">
-            Acerca de
+            Acerca de Nosotros
           </button>
         </li>
         <li>
